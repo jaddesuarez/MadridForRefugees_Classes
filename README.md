@@ -2,7 +2,7 @@
 
 ## Overview
 
-Class materials for the Madrid For Refugees classes.
+Class materials - Madrid For Refugees course.
 
 ## Contact
 
